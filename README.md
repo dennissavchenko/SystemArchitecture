@@ -60,6 +60,14 @@ The **BedTimeAI** application is designed as a single AI model system to predict
 
 6. **Retraining**:  
    - The AI model is periodically retrained using feedback data to improve its predictions and adapt to user behavior over time.
+   
+![](Archtecture.png)
+
+*System Architecture*
+
+![](DataFlow.png)
+
+*Data Flow*
 
 ### Technology Stack
 
