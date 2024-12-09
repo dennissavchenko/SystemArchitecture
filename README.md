@@ -1,4 +1,16 @@
-## System Architecture
+## Repository Description
+
+This repository is a project designed to learn and practice creating system architecture diagrams and descriptions for an AI-based application. It includes:
+
+- A detailed system architecture description.
+- Images of the **System Architecture** and **Data Flow** diagrams to visually explain the workflow and relationships between components.
+- A focus on designing a one-model AI system that integrates CoreML into an iOS application.
+
+The goal is to explore and understand how various components of an AI system interact and how to document them effectively.
+
+---
+
+## System Architecture Description
 
 The **BedTimeAI** application is designed as a single AI model system to predict the ideal bedtime based on user inputs like desired wake-up time, number of cups of coffee consumed, and desired hours of sleep. Below is an overview of its system architecture:
 
