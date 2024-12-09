@@ -12,7 +12,7 @@ The goal is to explore and understand how various components of an AI system int
 
 ## System Architecture Description
 
-The **BedTimeAI** application is designed as a single AI model system to predict the ideal bedtime based on user inputs like desired wake-up time, number of cups of coffee consumed, and desired hours of sleep. Below is an overview of its system architecture:
+**Project description**: This is an application which is designed as a single AI model system to predict the ideal bedtime based on user inputs like desired wake-up time, number of cups of coffee consumed, and desired hours of sleep. Below is an overview of its system architecture:
 
 ### Key Components
 
